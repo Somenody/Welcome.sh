@@ -1,0 +1,6 @@
+tuxsay
+ascii
+cowsay
+screenfetch
+curl
+wget
